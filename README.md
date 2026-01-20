@@ -38,3 +38,31 @@ password-generator/
 
 ```
 ---
+
+## ▶️ Usage
+
+**CLI Version**
+Run the command‑line tool:
+```bash
+python cli/password_cli.py
+```
+- You’ll be prompted to:
+- Enter password length (≥ 8)
+- Choose whether to include uppercase, lowercase, digits, and symbols
+- Generate multiple variations until satisfied
+
+**GUI Version**
+__Run the PyQt5 application:__
+```bash
+python gui/password_gui.py
+```
+
+Features:
+- Spinbox to set password length
+- Checkboxes for character types
+- Exclusion field (e.g., exclude O0l1)
+- Generate button with styled output
+- Copy to clipboard button
+
+---
+
