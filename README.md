@@ -66,3 +66,10 @@ Features:
 
 ---
 
+# 📸 Screenshots:
+
+<img width="1919" height="1149" alt="Screenshot 2026-01-20 195050" src="https://github.com/user-attachments/assets/99478464-ac8e-4e74-9d32-ea136e9d223e" />
+<img width="491" height="540" alt="Screenshot 2026-01-20 195216" src="https://github.com/user-attachments/assets/929c1213-d533-4fa4-a91a-ca63feda0ee6" />
+<img width="1919" height="1135" alt="Screenshot 2026-01-20 195121" src="https://github.com/user-attachments/assets/278beb66-dfc6-4298-a30f-7b000606eab8" />
+
+---
